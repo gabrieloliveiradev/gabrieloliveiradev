@@ -11,6 +11,7 @@
 </p>
 
 ### Hi, I'm Gabriel 👋
+
 I'm a brazilian developer currently looking for a job, I have been working with development and coding for about 1 year using technologies such as Angular, Spring Boot, TypeScript, Java, JavaScript, HTML, Node, CSS, BootStrap and MySQL.
 <!--
 **gabrieloliveiradev/gabrieloliveiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
